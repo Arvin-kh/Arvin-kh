@@ -7,7 +7,7 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/arvinkh20"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Arvin-kh"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -20,8 +20,8 @@
       </samp>
   <br />
       <br />
- <a href="https://komarev.com/ghpvc/?username=arvinkh20" >
-    <img src="https://komarev.com/ghpvc/?username=arvinkh20&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+ <a href="https://komarev.com/ghpvc/?username=Arvin-kh" >
+    <img src="https://komarev.com/ghpvc/?username=Arvin-kh&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
   </a>
     
   </h3>
@@ -43,7 +43,7 @@
   <p>
     
    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
-   💬 &emsp; Ask me about anything [here](https://github.com/arvinkh20/arvinkh20/issues)
+   💬 &emsp; Ask me about anything [here](https://github.com/Arvin-kh/Arvin-kh/issues)
   
   </p>
   <br/>
@@ -70,22 +70,22 @@
   <br/>
   
   <p align="center">
-    <a href="https://github.com/arvinkh20">
-      <img src="https://streak-stats.demolab.com/?user=arvinkh20&theme=yellowdark&border=e7f216" alt="arvin's GitHub streak"/>
+    <a href="https://github.com/Arvin-kh">
+      <img src="https://streak-stats.demolab.com/?user=Arvin-kh&theme=yellowdark&border=e7f216" alt="arvin's GitHub streak"/>
     </a>
   </p>
   
   <p align="center">
-    <a href="https://github.com/arvinkh20">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arvinkh20&theme=highcontrast&border=e7f216" alt="arvin's GitHub Contribution"/>
+    <a href="https://github.com/Arvin-kh">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arvin-kh&theme=highcontrast&border=e7f216" alt="arvin's GitHub Contribution"/>
     </a>
   </p>
   
   <a> 
-      <a href="https://github.com/arvinkh20"><img alt="arvin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=arvinkh20&show_icons=true&count_private=true&theme=yellowdark&border_color=e7f216&bg_color=000000&title_color=e7f216&icon_color=00ffff" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/arvinkh20"><img alt="arvin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arvinkh20&langs_count=8&layout=compact&theme=yellowdark&border_color=e7f216&bg_color=000000&title_color=e7f216&icon_color=00ffff" height="192px" width="49.5%"/></a>
+      <a href="https://github.com/Arvin-kh"><img alt="arvin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Arvin-kh&show_icons=true&count_private=true&theme=yellowdark&border_color=e7f216&bg_color=000000&title_color=e7f216&icon_color=00ffff" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Arvin-kh"><img alt="arvin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Arvin-kh&langs_count=8&layout=compact&theme=yellowdark&border_color=e7f216&bg_color=000000&title_color=e7f216&icon_color=00ffff" height="192px" width="49.5%"/></a>
     <br/>
   </a>
   
   
-  ![Arvin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=arvinkh20&custom_title=Arvins%20GitHub%20Activity%20Graph&bg_color=000000&color=e7f216&line=e7f216&point=e7f216&area_color=FFFFFF&title_color=e7f216&area=true&hide_border=true)
+  ![Arvin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arvin-kh&custom_title=Arvins%20GitHub%20Activity%20Graph&bg_color=000000&color=e7f216&line=e7f216&point=e7f216&area_color=FFFFFF&title_color=e7f216&area=true&hide_border=true)
