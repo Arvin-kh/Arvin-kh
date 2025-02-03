@@ -57,12 +57,6 @@
   
   <p align="center">
     <a href="https://github.com/Arvin-kh">
-      <img src="https://streak-stats.demolab.com/?user=Arvin-kh&theme=yellowdark&border=e7f216" alt="arvin's GitHub streak"/>
-    </a>
-  </p>
-  
-  <p align="center">
-    <a href="https://github.com/Arvin-kh">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arvin-kh&theme=highcontrast&border=e7f216" alt="arvin's GitHub Contribution"/>
     </a>
   </p>
