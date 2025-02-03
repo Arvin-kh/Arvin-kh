@@ -46,7 +46,7 @@
   ![Svelte](https://img.shields.io/badge/svelte-ff3e00?style=for-the-badge&logo=svelte&logoColor=ff3e00&labelColor=0F0F0F)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0F0F0F)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&labelColor=0F0F0F)
   ![Aftereffects](https://img.shields.io/badge/aftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF&labelColor=0F0F0F)
   ![illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00&labelColor=0F0F0F)
